@@ -1,0 +1,8 @@
+fastapi>=0.115.0
+firecrawl-py>=2.0.0
+groq>=0.9.0
+mcp>=1.10.0
+python-dotenv>=1.0.1
+streamlit>=1.35.0
+tqdm>=4.66.0
+uvicorn[standard]>=0.30.0

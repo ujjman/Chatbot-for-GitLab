@@ -1,0 +1,1 @@
+"""GitLab Handbook chatbot package."""
